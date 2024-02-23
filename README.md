@@ -1,8 +1,8 @@
-###  DATE: 
+###  DATE: 23.02.2024
 
-###  NAME: 
-###  ROLL NO :
-###  DEPARTMENT: 
+###  NAME: Yuva krishna k
+###  ROLL NO :212222110056
+###  DEPARTMENT: CSE(IOT)
 
 
 
@@ -90,8 +90,11 @@ The main features of LPC2148 include the following.
 
 
 ## Output  :
- 
- 
+#LED OFF:
+ ![WhatsApp Image 2024-02-23 at 9 16 23 AM](https://github.com/Yuvakrishna0/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/117915037/c18201d9-7b42-4009-8a8d-ff48ed1c06cc)
+#LED ON:
+![WhatsApp Image 2024-02-23 at 9 16 20 AM](https://github.com/Yuvakrishna0/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/117915037/472921d6-ec26-49b9-85c9-4f2c94099454)
+
  
  
 ## Result :
